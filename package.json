@@ -1,0 +1,9 @@
+{
+  "name": "sky-music",
+  "private": true,
+  "type": "module",
+  "description": "Music timelines for the gooey visualizer on angelogonza's site.",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  }
+}
